@@ -6,6 +6,7 @@ version: 0.1.0.0
 author: Daniel Trowbridge
 copyright: 2023 Daniel Trowbridge
 github: danieljtrowbridge/th-base-functors
+license: MIT
 maintainer: danieljtrowbridge@pm.me
 
 dependencies:

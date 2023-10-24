@@ -11,6 +11,7 @@ bug-reports:    https://github.com/danieljtrowbridge/th-base-functors/issues
 author:         Daniel Trowbridge
 maintainer:     danieljtrowbridge@pm.me
 copyright:      2023 Daniel Trowbridge
+license:        MIT
 build-type:     Simple
 
 source-repository head
