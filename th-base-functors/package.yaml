@@ -11,6 +11,8 @@ maintainer: danieljtrowbridge@pm.me
 
 dependencies:
   - base >= 4.7 && < 5
+  - recursion-schemes >= 5.0.1 && < 5.3
+  - template-haskell >= 2.7.0 && < 2.22
 
 ghc-options:
   - -Wall
