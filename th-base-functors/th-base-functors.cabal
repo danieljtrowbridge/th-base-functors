@@ -19,6 +19,8 @@ source-repository head
   location: https://github.com/danieljtrowbridge/th-base-functors
 
 library
+  exposed-modules:
+      Data.Functor.Base.TH
   other-modules:
       Paths_th_base_functors
   hs-source-dirs:
